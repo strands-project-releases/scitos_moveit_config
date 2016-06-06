@@ -1,0 +1,9 @@
+ros-indigo-scitos-moveit-config (0.0.1-0trusty) trusty; urgency=high
+
+  * updated moveit config
+  * initial version
+  * Contributors: Lars Kunze
+
+ -- Lars Kunze <l.kunze@cs.bham.ac.uk>  Sun, 05 Jun 2016 23:00:00 -0000
+
+
